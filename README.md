@@ -1,7 +1,7 @@
 # coa-box
 
 ### This repository is on maintenance mode and set as read-only.
-#### Use [bperel/coa-box-docker](https://github.com/bperel/coa-box-docker) instead
+#### Use [bperel/coa-updater](https://github.com/bperel/coa-updater) instead
 
 ---
 
